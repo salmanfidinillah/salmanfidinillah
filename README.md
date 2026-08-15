@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/salman-dino-banner.gif" width="100%" alt="Animated dot-matrix Salman Fidinillah banner with an original pixel dinosaur runner" />
+  <img src="./salman-dino-banner.gif"  width="100%" alt="Animated dot-matrix Salman Fidinillah banner with an original pixel dinosaur runner" />
 </p>
 
 <p align="center">
