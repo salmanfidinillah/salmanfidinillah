@@ -52,7 +52,7 @@ STATUS     : Always learning. Always shipping.
 |---|---|---|
 | [**Cyber Academy AI**](https://siberaga.web.id) | AI-powered cybersecurity learning with courses, quizzes, simulations, progress tracking, and an AI Tutor. | `Next.js` `TypeScript` `FastAPI` `Firebase` `Vertex AI` `Cloud Run` |
 | [**Salman Builds**](https://salmanbuilds.web.id) | Personal portfolio and selected software projects. | `HTML` `CSS` `JavaScript` `Cloudflare` |
-| **Invitalab**  (https://invitation.avilab.my.id/) |Digital invitation experience with customizable templates and structured ordering flows. | `Web UI` `Responsive Design` `JavaScript` |
+| [**Invitalab**](https://invitation.avilab.my.id/) |Digital invitation experience with customizable templates and structured ordering flows. | `Web UI` `Responsive Design` `JavaScript` |
 
 ---
 
