@@ -115,20 +115,13 @@ STATUS     : Always learning. Always shipping.
 ## `> GITHUB_TELEMETRY`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salmanfidinillah&show_icons=true&include_all_commits=true&theme=transparent&title_color=35FF8E&text_color=EDF4F1&icon_color=35FF8E&border_color=1E3D32" alt="Salman's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfidinillah&layout=compact&theme=transparent&title_color=35FF8E&text_color=EDF4F1&border_color=1E3D32" alt="Salman's most used repository languages" />
+  <img height="180" src="./profile/stats.svg" alt="Salman's GitHub statistics" />
+  <img height="180" src="./profile/top-langs.svg" alt="Salman's most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanfidinillah&theme=dark&background=030609&border=1E3D32&ring=35FF8E&fire=35FF8E&currStreakLabel=35FF8E" alt="Salman's contribution streak" />
+  <img src="./profile/streak.svg" alt="Salman's contribution streak" />
 </p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=salmanfidinillah&bg_color=030609&color=EDF4F1&line=35FF8E&point=FFFFFF&area=true&area_color=126B40&hide_border=true" alt="Salman's recent contribution activity" />
-</p>
-
----
-
 ## `> ESTABLISH_CONNECTION`
 
 <p align="center">
