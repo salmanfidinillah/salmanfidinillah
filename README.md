@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://salmanbuilds.web.id">
+  <a href="https://portfo.salmanbuilds.web.id">
     <img src="https://img.shields.io/badge/PORTFOLIO-salmanbuilds.web.id-030609?style=for-the-badge&logo=googlechrome&logoColor=35FF8E" alt="Portfolio" />
   </a>
   <a href="https://siberaga.web.id">
